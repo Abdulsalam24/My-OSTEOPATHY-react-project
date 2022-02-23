@@ -12,7 +12,9 @@ function Competence() {
         <div className="competence flex center">
           {competenceData.map(data => (
             <div className='text' key={data.id}>
-              <i className='icon'>icon</i>
+              <div className="icon">
+              <span>{data.icon}</span>
+              </div>
               <h4>{data.p1}</h4>
               <p>{data.p2}</p>
               <div className="p">

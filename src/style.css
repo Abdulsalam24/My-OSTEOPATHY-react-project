@@ -263,7 +263,16 @@ main section .competence-sec .competence .text {
   text-align: center;
 }
 main section .competence-sec .competence .text .icon {
-  margin: 60px 0;
+  margin: 30px 0;
+}
+main section .competence-sec .competence .text .icon span {
+  border: 1px solid #c1c1c1;
+  width: 80px;
+  height: 80px;
+  line-height: 80px;
+  border-radius: 50%;
+  font-size: 26px;
+  display: inline-block;
 }
 main section .competence-sec .competence .text h4 {
   margin: 10px 0;

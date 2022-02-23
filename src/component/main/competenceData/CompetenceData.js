@@ -1,6 +1,6 @@
 export const competenceData = [
     {
-      icon : 'icon',
+      icon : <i class="fab fa-pagelines"></i>,
       p1 : 'PARIETAL STRUCTURAL OSTEOPATHY',
       p2 : 'Includes bones, joints, ligaments and muscles. Typical application examples in this area are:',
       p3 : 'Knee Pain',
@@ -11,7 +11,7 @@ export const competenceData = [
       p8 : 'Problems Tennis Elbow'
     },
     {
-      icon : 'icon',
+      icon : <i class="fab fa-pagelines"></i>,
       p1 : 'CRANIO-SACRAL OSTEOPATHY',
       p2 : 'This includes the treatment of the head, spine and fascia. Typical application examples are:',
       p3 : 'Chronic nasal and sinus problems',
@@ -22,7 +22,7 @@ export const competenceData = [
       p8 : 'sleep disorders'
     },
     {
-      icon : 'icon',
+      icon : <i class="fab fa-pagelines"></i>,
       p1 : 'VISCERAL OSTEOPATHY',
       p2 : 'Includes treatment of internal organs. Application examples include:',
       p3 : 'Chronic gastrointestinal problems',
